@@ -25,7 +25,4 @@ List the frequency counts, in descending order, of all the employee last names (
 
 ## Completed Using:
 
-PostgreSQL
-SQLAlchemy
-Pandas
-Jupyter Notebook
+PostgreSQL, SQLAlchemy, Pandas, Jupyter Notebook

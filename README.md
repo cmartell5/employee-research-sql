@@ -1,2 +1,2 @@
-# spl-challenge
+# sql-challenge
 Employee Research using SQL

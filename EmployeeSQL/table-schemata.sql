@@ -1,4 +1,4 @@
--- Create table of Employees information
+-- Create table of Employee information
 CREATE TABLE Employees (
 	emp_no INTEGER PRIMARY KEY,
 	emp_title VARCHAR(10) NOT NULL,
